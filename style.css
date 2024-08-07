@@ -46,6 +46,7 @@ body{
 }
 
 .header {
+    width: auto;
     height: 10rem;
     padding: 2.5rem;
     background: var(--clr-light);
