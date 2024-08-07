@@ -39,7 +39,6 @@
 
 /* GENERAL */
 body{
-    max-width: 1600px;
     margin: 0 auto;
     background: var(--clr-darkest);
     font: var(--ff-primary);
